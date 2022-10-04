@@ -1,0 +1,49 @@
+p {
+    color: red;
+    font-style: italic;
+}
+
+.favorite_font {
+
+    font-style:italic;
+}
+.img-personal {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 40%;
+ }
+ 
+ .hobbies {
+    background-color: dodgerblue; 
+ }
+ .style3 {
+    background-color: black; color: white;
+ }
+
+ .style2 {
+    background-color:azure;
+ }
+
+ .style1{
+    background-color:antiquewhite;
+ }
+
+ p {
+    width: 320px;
+    padding: 10px;
+    /* border: 10px solid gray; */
+    margin: 0;
+ }
+
+ h1 {
+        width: 100%;
+        padding: 10px;
+        border: 10px solid gray;
+        margin: 0;
+        text-align: center;
+      }
+
+ h1 {
+        
+      }
